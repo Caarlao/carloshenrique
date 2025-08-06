@@ -1,5 +1,6 @@
 ## Olá! Me Chamo Carlos Henrique 👋🏻
 - ✏️ Atualmente Estudo ADS
+- 🥇 Faculdade Cruzeiro do Sul
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshenrique&show_icons=true&theme=dark)
 
